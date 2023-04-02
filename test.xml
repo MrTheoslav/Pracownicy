@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <Name>a</Name>
+    <Surname>b</Surname>
+    <DateOfBirth>01 April 2023</DateOfBirth>
+    <Salary>0</Salary>
+    <Position>c</Position>
+    <TypeOfContract>umowa na czas nieokreślony</TypeOfContract>
+  </Worker>
+  <Worker>
+    <Name>b</Name>
+    <Surname>c</Surname>
+    <DateOfBirth>01 April 2023</DateOfBirth>
+    <Salary>0</Salary>
+    <Position>d</Position>
+    <TypeOfContract>umowa na czas określony
+</TypeOfContract>
+  </Worker>
+</ArrayOfWorker>
